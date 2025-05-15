@@ -345,6 +345,7 @@ typedef enum _sai_hostif_trap_type_t
      * L1 IS: 01:80:c2:00:00:14, All Level 1 Intermediate Systems Address
      * L2 IS: 01:80:c2:00:00:15, All Level 2 Intermediate Systems Address
      * All IS: 09:00:2b:00:00:05, All Intermediate System Network Entities address
+     * All ES: 09:00:2b:00:00:04, All End System Network Entities Address
      *
      * Default packet action is forward
      */
